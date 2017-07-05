@@ -30,7 +30,7 @@
         <!-- header -->
         <header>
             <div class="wrapper">
-                <h1><a href="index.php" id="logo">Ujala E Pakistan</a></h1>
+                <h1><a href="index.php" id="logo">UJALA E PAKISTAN</a></h1>
 <!--                <h1>  <a href="index.php"><img src="images/logo1.png" width="146" height="83"> Ujala E Pakistan</a></h1>-->
                 <nav>
                     <ul id="top_nav">
