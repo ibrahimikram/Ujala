@@ -410,7 +410,8 @@ header {
 	float:left;
 	margin-left:94px;
 	padding:12px 0 17px 41px;
-	font-style:italic;
+	font-family: "Century Gothic";
+	font-size: x-large;
 	background:url(../images/quot1.png) 0 0 no-repeat;
 	width:570px
 }
@@ -490,7 +491,7 @@ footer {
 	margin-left:-4px
 }
 #footer_logo span {
-	color:darkgreen;
+	color:forestgreen;
 }
 #icons {
 	float:right;
@@ -502,7 +503,7 @@ footer {
 }
 /* Tooltips */
 .aToolTip {
-	background:darkgreen;
+	background:forestgreen;
 	color:#fff;
 	font-weight:bold;
 	margin:0;
@@ -528,7 +529,7 @@ footer {
 	font-weight:300
 }
 .tel span {
-	color:darkgreen;
+	color:forestgreen;
 }
 footer nav {
 	float:left

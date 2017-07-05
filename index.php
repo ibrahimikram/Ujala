@@ -89,7 +89,7 @@
               <section class="col1">
                 <h2><strong>S</strong>ocial <span>Welfare</span></h2>
                 <div class="pad_bot1">
-                  <figure><img src="images/page1_img1.jpg" alt=""></figure>
+<!--                  <figure><img src="images/page1_img1.jpg" alt=""></figure>-->
                 </div>
                 Our portfolio includes: Arranging grand Iftars, Managing an orphanage, Supplying means of marriage to sisters &
                   distributuion of ration to needy families alongside financial aid.
@@ -97,7 +97,7 @@
               <section class="col1 pad_left1">
                 <h2 class="color2"><strong>E</strong>ducation</h2>
                 <div class="pad_bot1">
-                  <figure><img src="images/page1_img2.jpg" alt=""></figure>
+<!--                  <figure><img src="images/page1_img2.jpg" alt=""></figure>-->
                 </div>
                 This sector has our utmost attention; bearing education expenses of more than a dozen children, alongside
                 aiding certain requirements of individual students.
@@ -105,7 +105,7 @@
               <section class="col1 pad_left1">
                 <h2 class="color3"><strong>D</strong>isaster <span>Relief</span></h2>
                 <div class="pad_bot1">
-                  <figure><img src="images/page1_img3.jpg" alt=""></figure>
+<!--                  <figure><img src="images/page1_img3.jpg" alt=""></figure>-->
                 </div>
                     Natural calamities have severe impacts on many people; we have provided active relief work in the recent
                     floods, earthquake and droughts by reaching the source directly.
@@ -122,7 +122,7 @@
                          God, opposed to gaining any personal benefits
             <img src="images/quot2.png" alt="">
         </p>
-      </div>
+      </div> <br>
     </article>
     <!-- / content -->
     <!-- footer -->
