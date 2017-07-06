@@ -20,7 +20,8 @@ mark, rp, rt, ruby, summary, time {
 body {
 	background:url(../images/bg.jpg) top center repeat;
 	border:0;
-	font:14px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-family: "Century Gothic";
+	font-size: medium;
 	color:#575652;
 	line-height:22px
 }
@@ -102,7 +103,7 @@ h3 {
 	letter-spacing:-1px
 }
 h4 {
-	color:#dad6cc;
+	color:forestgreen;
 	font-weight:300;
 	font-size:35px;
 	line-height:1.2em;
@@ -117,7 +118,7 @@ h4.color2 span {
 	color:#9ecf39
 }
 h4.color3 span {
-	color:#6cd6af
+	color:white;
 }
 #page4 h4, #page5 h4 {
 	padding:25px 0 16px 0;
@@ -604,7 +605,8 @@ footer nav {
 	background:#000;
 	padding:3px 5px;
 	color:#575652;
-	font:12px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-family: "Century Gothic";
+	font-size: x-large;
 	height:14px
 }
 #ContactForm textarea {
@@ -613,6 +615,7 @@ footer nav {
 	background:#000;
 	padding:3px 5px;
 	color:#575652;
-	font:12px "Trebuchet MS", Arial, Helvetica, sans-serif;
-	height:91px
+	font-family: "Century Gothic";
+	font-size: x-large;
+	height:131px
 }

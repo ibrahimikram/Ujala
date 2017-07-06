@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Hope Center | Contact</title>
+<title>UjalaEPakistan | Contact</title>
 <meta charset="utf-8">
 <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
 <link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
@@ -25,19 +25,19 @@
     <!-- header -->
     <header>
       <div class="wrapper">
-        <h1><a href="index.html" id="logo">Hope Center</a></h1>
+        <h1><a href="index.php" id="logo">UJALA E PAKISTAN</a></h1>
         <nav>
           <ul id="top_nav">
-            <li><a href="index.html"><img src="images/top_icon1.gif" alt=""></a></li>
+            <li><a href="index.php"><img src="images/top_icon1.gif" alt=""></a></li>
             <li><a href="#"><img src="images/top_icon2.gif" alt=""></a></li>
-            <li class="end"><a href="contact.html"><img src="images/top_icon3.gif" alt=""></a></li>
+            <li class="end"><a href="contact.php"><img src="images/top_icon3.gif" alt=""></a></li>
           </ul>
         </nav>
         <nav>
           <ul id="menu">
             <li><a href="index.php">Home</a></li>
             <li><a href="mission.php">Our Mission</a></li>
-            <li><a href="news.php">News &amp; Press</a></li>
+            <li><a href="projects.php">Projects</a></li>
             <li><a href="help.php">How to Help</a></li>
             <li id="menu_active"><a href="contact.php">Contact</a></li>
           </ul>
@@ -56,15 +56,15 @@
               City:<br>
               Zip Code:<br>
               Telephone:<br>
-              Fax:<br>
-              E-Mail: </strong> USA<br>
-              San Diego<br>
-              50122<br>
-              +354 5635600<br>
-              +354 5635610<br>
-              <a href="#">hopecenter@gmail.com</a> </section>
+              E-Mail: </strong> Pakistan<br>
+              Rawalpindi / Islamabad<br>
+              45000<br>
+              +92 3325020616<br>
+              ujalaepakistan@gmail.com <br>
+            </section>
+
             <section class="col2 pad_left1">
-              <h2 class="color2"><strong>M</strong>iscellaneous<span>info</span></h2>
+              <h2 class="color2"><strong>O</strong>ur<span> Policy</span></h2>
               <p class="pad_bot1"> Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. </p>
               Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur. </section>
           </div>
@@ -72,8 +72,8 @@
       </div>
       <div class="wrapper">
         <div class="pad_left2 relative">
-          <h4 class="color3"><span>Contact</span>Form</h4>
-          <img src="images/page6_img1.png" alt="" class="img1">
+          <h4 class="color3"><span>Contact</span> Form</h4>
+          <img src="images/page6_img1.jpg" alt="" height="310" class="img1">
           <form id="ContactForm" action="#">
             <div>
               <div class="wrapper"><span>Your Name:</span>
