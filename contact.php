@@ -53,9 +53,9 @@
             <section class="col1">
               <h2><strong>O</strong>ur<span>Address</span></h2>
               <strong class="address"> Country:<br>
-              City:<br>
+              City:<br><br>
               Zip Code:<br>
-              Telephone:<br>
+              Telephone:  <br>
               E-Mail: </strong> Pakistan<br>
               Rawalpindi / Islamabad<br>
               45000<br>
@@ -73,23 +73,33 @@
       <div class="wrapper">
         <div class="pad_left2 relative">
           <h4 class="color3"><span>Contact</span> Form</h4>
-          <img src="images/page6_img1.jpg" alt="" height="310" class="img1">
-          <form id="ContactForm" action="#">
+<!--          <img src="images/page6_img1.jpg" alt="" height="300" class="img1">-->
+
+          <form id="ContactForm" action="mailto:ibrahimikram@hotmail.com"  method="POST"
+                enctype="multipart/form-data">
+
             <div>
               <div class="wrapper"><span>Your Name:</span>
-                <input type="text" class="input">
+                <input name="sender" type="text" class="input" required>
               </div>
+
+                <div class="wrapper"><span>Contact No:</span>
+                    <input type="number" class="input">
+                </div>
+
               <div class="wrapper"><span>Your E-mail:</span>
-                <input type="text" class="input">
+                <input type="email" class="input" name="senderEmail" required>
               </div>
-              <div class="wrapper"><span>Your Website:</span>
-                <input type="text" class="input">
+
+                <div class="textarea_box"><span>Your Message:</span>
+                <textarea cols="1" rows="1" name="message"></textarea>
               </div>
-              <div class="textarea_box"><span>Your Message:</span>
-                <textarea name="textarea" cols="1" rows="1"></textarea>
-              </div>
-              <a href="#" class="button2 color3">Send</a> <a href="#" class="button2 color3">Clear</a> </div>
+
+              <a href="#" type="submit" post="submit" class="button2 color3">Send</a>
+
           </form>
+
+
         </div>
       </div>
     </article>
@@ -99,7 +109,6 @@
       <?php
       include('footer.php');
       ?>
-      <!-- / footer -->
 
   </div>
 </div>
