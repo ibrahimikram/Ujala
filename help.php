@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Hope Center | Help</title>
+    <title>UjalaEPakistan | Help</title>
     <meta charset="utf-8">
     <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
     <link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
@@ -25,19 +25,19 @@
     <!-- header -->
     <header>
       <div class="wrapper">
-        <h1><a href="index.html" id="logo">Hope Center</a></h1>
+        <h1><a href="index.php" id="logo">UJALA E PAKISTAN</a></h1>
         <nav>
           <ul id="top_nav">
-            <li><a href="index.html"><img src="images/top_icon1.gif" alt=""></a></li>
-            <li><a href="#"><img src="images/top_icon2.gif" alt=""></a></li>
-            <li class="end"><a href="contact.html"><img src="images/top_icon3.gif" alt=""></a></li>
+            <li><a href="index.php"><img src="images/top_icon1.gif" alt=""></a></li>
+            <li><a href="projects.php"><img src="images/top_icon2.gif" alt=""></a></li>
+            <li class="end"><a href="contact.php"><img src="images/top_icon3.gif" alt=""></a></li>
           </ul>
         </nav>
         <nav>
           <ul id="menu">
             <li><a href="index.php">Home</a></li>
             <li><a href="mission.php">Our Mission</a></li>
-            <li><a href="news.php">News &amp; Press</a></li>
+            <li><a href="projects.php">Projects</a></li>
             <li id="menu_active"><a href="help.php">How to Help</a></li>
             <li><a href="contact.php">Contact</a></li>
           </ul>
@@ -52,19 +52,19 @@
           <div class="line1">
             <div class="line2 wrapper">
               <section class="col1">
-                <h2><strong>M</strong>ake<span>Donations</span></h2>
+                <h2><strong>M</strong>ake<span> Donations</span></h2>
                 <div class="pad_bot1">
                   <figure><img src="images/page4_img1.jpg" alt=""></figure>
                 </div>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. <a href="#" class="button1">Read More</a> </section>
               <section class="col1 pad_left1">
-                <h2 class="color2"><strong>J</strong>oin<span>Volunteer</span></h2>
+                <h2 class="color2"><strong>J</strong>oin<span> Volunteer</span></h2>
                 <div class="pad_bot1">
                   <figure><img src="images/page4_img2.jpg" alt=""></figure>
                 </div>
                 Dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.<a href="#" class="button1 color2">Read More</a> </section>
               <section class="col1 pad_left1">
-                <h2 class="color3"><strong>H</strong>elp<span>Children</span></h2>
+                <h2 class="color3"><strong>H</strong>elp<span> Society</span></h2>
                 <div class="pad_bot1">
                   <figure><img src="images/page4_img3.jpg" alt=""></figure>
                 </div>

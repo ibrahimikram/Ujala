@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Hope Center | News</title>
+<title>UjalaEPakistan | Projects</title>
 <meta charset="utf-8">
 <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
 <link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
@@ -26,19 +26,19 @@
     <!-- header -->
     <header>
       <div class="wrapper">
-        <h1><a href="index.html" id="logo">Hope Center</a></h1>
+        <h1><a href="index.php" id="logo">UJALA E PAKISTAN</a></h1>
         <nav>
           <ul id="top_nav">
-            <li><a href="index.html"><img src="images/top_icon1.gif" alt=""></a></li>
-            <li><a href="#"><img src="images/top_icon2.gif" alt=""></a></li>
-            <li class="end"><a href="contact.html"><img src="images/top_icon3.gif" alt=""></a></li>
+            <li><a href="index.php"><img src="images/top_icon1.gif" alt=""></a></li>
+            <li><a href="projects.php"><img src="images/top_icon2.gif" alt=""></a></li>
+            <li class="end"><a href="contact.php"><img src="images/top_icon3.gif" alt=""></a></li>
           </ul>
         </nav>
         <nav>
           <ul id="menu">
             <li><a href="index.php">Home</a></li>
             <li><a href="mission.php">Our Mission</a></li>
-            <li id="menu_active"><a href="news.php">News &amp; Press</a></li>
+            <li id="menu_active"><a href="projects.php">Projects</a></li>
             <li><a href="help.php">How to Help</a></li>
             <li><a href="contact.php">Contact</a></li>
           </ul>
