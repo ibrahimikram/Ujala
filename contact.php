@@ -29,7 +29,7 @@
         <nav>
           <ul id="top_nav">
             <li><a href="index.php"><img src="images/top_icon1.gif" alt=""></a></li>
-            <li><a href="#"><img src="images/top_icon2.gif" alt=""></a></li>
+            <li><a href="projects.php"><img src="images/top_icon2.gif" alt=""></a></li>
             <li class="end"><a href="contact.php"><img src="images/top_icon3.gif" alt=""></a></li>
           </ul>
         </nav>
@@ -55,7 +55,7 @@
               <strong class="address"> Country:<br>
               City:<br><br>
               Zip Code:<br>
-              Telephone:  <br>
+              Phone :  <br>
               E-Mail: </strong> Pakistan<br>
               Rawalpindi / Islamabad<br>
               45000<br>
@@ -65,8 +65,9 @@
 
             <section class="col2 pad_left1">
               <h2 class="color2"><strong>O</strong>ur<span> Policy</span></h2>
-              <p class="pad_bot1"> Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. </p>
-              Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur. </section>
+              <p class="pad_bot1"> We here at Ujala E Pakistan believe in complete transperency and to ensure that every penny is effectively used.</p>
+              To achieve that, every donor is welcomed to witness the project's progress by themselves and complete details with calculated expenditures are
+            regularly updated after every activity.</section>
           </div>
         </div>
       </div>
