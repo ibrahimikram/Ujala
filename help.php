@@ -90,7 +90,7 @@
         <div class="box2">
           <div class="wrapper">
             <section class="col1">
-              <div class="wrapper"> <a href="#" class="left marg_right1"><img src="images/donate_but1.jpg" alt=""></a>
+              <div class="wrapper"> <a href="#" class="left marg_right1"><img src="images/donate_but.jpg" alt=""></a>
                 <p class="pad_bot2"><strong>How Can You Donate?</strong></p>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse. </div>
             </section>

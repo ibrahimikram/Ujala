@@ -51,7 +51,7 @@
         <div class="box1">
           <div class="line1 wrapper">
             <section class="col1">
-              <h2><strong>O</strong>ur<span>Address</span></h2>
+              <h2 class="color2"><strong>O</strong>ur<span>Address</span></h2>
               <strong class="address"> Country:<br>
               City:<br><br>
               Zip:<br>
@@ -64,7 +64,7 @@
             </section>
 
             <section class="col2 pad_left1">
-              <h2 class="color2"><strong>O</strong>ur<span> Policy</span></h2>
+              <h2 class="color3"><strong>O</strong>ur<span> Policy</span></h2>
               <p class="pad_bot1"> We here at Ujala E Pakistan believe in complete transperency and to ensure that every penny is effectively used.</p>
               To achieve that, every donor is welcomed to witness the project's progress by themselves and complete details with calculated expenditures are
             regularly updated after every activity.</section>

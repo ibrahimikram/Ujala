@@ -87,6 +87,7 @@ h2 strong, .box1 h2 strong {
 	background:url(../images/bg_title1.gif) 0 4px repeat-x;
 	margin-right:3px
 }
+
 h2.color2 strong {
 	background-image:url(../images/bg_title2.gif)
 }
@@ -102,6 +103,7 @@ h3 {
 	float:left;
 	letter-spacing:-1px
 }
+
 h4 {
 	color:forestgreen;
 	font-weight:300;
@@ -110,6 +112,7 @@ h4 {
 	padding:0 0 7px 0;
 	letter-spacing:-1px
 }
+
 h4 span {
 	color:white;
 	font-weight:400
@@ -304,9 +307,9 @@ header {
 	margin-right:37px
 }
 .box1 {
-	background:url(../images/bg_box1.jpg) top center no-repeat #dad6cc;
-	border-top:5px solid #cdc8bc;
-	padding:15px 30px 29px
+	background:url(../images/bg_box1.jpg) top center  #dad6cc;
+	border-top:5px solid forestgreen;
+	padding:15px 30px 39px
 }
 .box1 strong {
 	color:#3f3f3f
@@ -317,6 +320,7 @@ header {
 	-webkit-box-shadow:0 0 3px #a4a19a;
 	position:relative
 }
+
 .box2 {
 	background:#0e0c0a;
 	padding:25px 30px 32px
