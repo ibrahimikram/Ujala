@@ -54,7 +54,7 @@
               <h2><strong>O</strong>ur<span>Address</span></h2>
               <strong class="address"> Country:<br>
               City:<br><br>
-              Zip Code:<br>
+              Zip:<br>
               Phone :  <br>
               E-Mail: </strong> Pakistan<br>
               Rawalpindi / Islamabad<br>
@@ -80,19 +80,19 @@
                 enctype="multipart/form-data">
 
             <div>
-              <div class="wrapper"><span>Your Name:</span>
+              <div class="wrapper"><span>Name:</span>
                 <input name="sender" type="text" class="input" required>
               </div>
 
-                <div class="wrapper"><span>Contact No:</span>
+                <div class="wrapper"><span>Contact: </span>
                     <input type="number" class="input">
                 </div>
 
-              <div class="wrapper"><span>Your E-mail:</span>
+              <div class="wrapper"><span>E-mail:</span>
                 <input type="email" class="input" name="senderEmail" required>
               </div>
 
-                <div class="textarea_box"><span>Your Message:</span>
+                <div class="textarea_box"><span>Message:</span>
                 <textarea cols="1" rows="1" name="message"></textarea>
               </div>
 

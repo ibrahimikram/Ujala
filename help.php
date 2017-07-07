@@ -53,38 +53,44 @@
             <div class="line2 wrapper">
               <section class="col1">
                 <h2><strong>M</strong>ake<span> Donations</span></h2>
-                <div class="pad_bot1">
-                  <figure><img src="images/page4_img1.jpg" alt=""></figure>
-                </div>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. <a href="#" class="button1">Read More</a> </section>
+                  Help us in our cause by donating and we'll make sure that your contribution is put to good use.
+              </section>
               <section class="col1 pad_left1">
                 <h2 class="color2"><strong>J</strong>oin<span> Volunteer</span></h2>
-                <div class="pad_bot1">
-                  <figure><img src="images/page4_img2.jpg" alt=""></figure>
-                </div>
-                Dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.<a href="#" class="button1 color2">Read More</a> </section>
+                Join an enthusiastic group of people to help us during project execution.
+              </section>
               <section class="col1 pad_left1">
                 <h2 class="color3"><strong>H</strong>elp<span> Society</span></h2>
-                <div class="pad_bot1">
-                  <figure><img src="images/page4_img3.jpg" alt=""></figure>
-                </div>
-                Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<a href="#" class="button1 color3">Read More</a> </section>
+                Play your positive role in the society and be rewarded with great self satisfaction and greater reward in the hereafter Insha'Allah.
+              </section>
             </div>
           </div>
         </div>
       </div>
       <div class="wrapper">
         <div class="pad_left2">
-          <h4><span>How Donations</span>Row to Communities</h4>
-          <p class="pad_bot2"><strong>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa.</strong></p>
-          <p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis.</p>
+          <h4><span>How your Donations</span> Impact Communities</h4>
+          <p class="pad_bot2"><strong> Ever since our inception in 2013, Ujala E Pakistan has helped thousands of individuals by
+              catering to their specific needs</strong></p><br>
+          <ul style="list-style-type:circle">
+             <li>Every Ramadan, we arrange Grand Iftars daily for around 400+ people at '22 Number Chungi' located in Rawalpindi.</li>
+              <li>Since 2017, we have been working in collaboration with 'Bachon Ka Ghar' to provide a comfortable home to around 30 orphans
+                alongside arranging several recreational activities.</li>
+              <li>Earthquake relief initiative was run to provide aid to the affected in Chitral district alongside rebuilding of a
+              destroyed mosque.</li>
+              <li>Schooling expenses are actively being covered for many children studying in prestigious schools like 'Allied School'.</li>
+              <li>Regular distribution of ration to needy families alongside financial aid have also been actively worked upon.</li>
+              <li>In collaboration with 'Sha'oor Society', relief packages were distributed to families in Balochistan region.</li>
+              <li>We have provided the necessary means of marriage for at least 5 sisters. </li><br>
+          </ul>
+
         </div>
       </div>
       <div class="wrapper">
         <div class="box2">
           <div class="wrapper">
             <section class="col1">
-              <div class="wrapper"> <a href="#" class="left marg_right1"><img src="images/banner.jpg" alt=""></a>
+              <div class="wrapper"> <a href="#" class="left marg_right1"><img src="images/donate_but1.jpg" alt=""></a>
                 <p class="pad_bot2"><strong>How Can You Donate?</strong></p>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse. </div>
             </section>
