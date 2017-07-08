@@ -47,7 +47,7 @@
     <!-- / header -->
     <!-- content -->
 
-     <br> <h4 align="center" class="color3"><span>The</span> TEAM</h4>
+     <br> <h4 align="center" class="color3"><span>About</span> Us</h4>
 
     <article id="content">
 
@@ -61,7 +61,8 @@
                 <div class="pad_bot1">
                   <figure><img src="images/team1.jpg" alt=""></figure>
                 </div>
-                Hope Center is one of free website tem- plates by TemplateMonster.com, opti- mized for 1024X768 res. <br>
+                " Growing up in a third world country isn't as easy as it is perceived. As an individual it's my responsibility
+                  to serve my motherland and support my fellow countrymen. " <br> <br>
                   <h2 align="right">Chaudhry Shuja</h2>
               </section>
               <section class="col1 pad_left1">
@@ -69,8 +70,8 @@
                 <div class="pad_bot1">
                   <figure><img src="images/team2.jpg" alt=""></figure>
                 </div>
-                "Being the reason for someone's comfort and helping those in need gives you unparalleled satisfaction and
-                achieving that peace of mind is what I thrive for with our organization" <br>
+                " Being the reason for someone's comfort and helping those in need gives you unparalleled satisfaction and
+                achieving that peace of mind is what I thrive for with our organization. " <br>
                 <h2 align="right">Ibrahim Ikram</h2>
               </section>
               <section class="col1 pad_left1">
@@ -78,7 +79,8 @@
                 <div class="pad_bot1">
                   <figure><img src="images/team3.jpg" alt=""></figure>
                 </div>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid- idunt ut labore et  <br>
+                  " I don't want to live in a kind of world where we don't show compassion for humanity. Now I can't change the
+                  way anyone else thinks, or what they choose to do, but I can surely do my bit. "   <br>
                   <h2 align="right">Hashim Malik</h2>
               </section>
             </div>

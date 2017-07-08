@@ -309,7 +309,7 @@ header {
 .box1 {
 	background:url(../images/bg_box1.jpg) top center  #dad6cc;
 	border-top:5px solid forestgreen;
-	padding:15px 30px 39px
+	padding:15px 30px 25px
 }
 .box1 strong {
 	color:#3f3f3f
@@ -318,6 +318,21 @@ header {
 	box-shadow:0 0 3px #a4a19a;
 	-moz-box-shadow:0 0 3px #a4a19a;
 	-webkit-box-shadow:0 0 3px #a4a19a;
+	position:relative
+}
+
+.box11 {
+	background:url(../images/bg_box11.jpg) top center  black;
+	border-top:5px solid forestgreen;
+	padding:15px 30px 39px
+}
+.box11 strong {
+	color:#3f3f3f
+}
+.box11 figure {
+	box-shadow:0 0 3px black;
+	-moz-box-shadow:0 0 3px black;
+	-webkit-box-shadow:0 0 3px black;
 	position:relative
 }
 

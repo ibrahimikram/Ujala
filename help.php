@@ -74,13 +74,13 @@
               catering to their specific needs</strong></p><br>
           <ul style="list-style-type:circle">
              <li>Every Ramadan, we arrange Grand Iftars daily for around 400+ people at '22 Number Chungi' located in Rawalpindi.</li>
-              <li>Since 2017, we have been working in collaboration with 'Bachon Ka Ghar' to provide a comfortable home to around 30 orphans
+              <li>Since 2017, we have been working in collaboration with 'Bachon Ka Ghar' to provide a comfortable home to around 35 orphans
                 alongside arranging several recreational activities.</li>
               <li>Earthquake relief initiative was run to provide aid to the affected in Chitral district alongside rebuilding of a
               destroyed mosque.</li>
               <li>Schooling expenses are actively being covered for many children studying in prestigious schools like 'Allied School'.</li>
               <li>Regular distribution of ration to needy families alongside financial aid have also been actively worked upon.</li>
-              <li>In collaboration with 'Sha'oor Society', relief packages were distributed to families in Balochistan region.</li>
+              <li>In collaboration with 'Sha'oor Society', relief packages were distributed to families in Jhang, Punjab region.</li>
               <li>We have provided the necessary means of marriage for at least 5 sisters. </li><br>
           </ul>
 
@@ -92,7 +92,14 @@
             <section class="col1">
               <div class="wrapper"> <a href="#" class="left marg_right1"><img src="images/donate_but.jpg" alt=""></a>
                 <p class="pad_bot2"><strong>How Can You Donate?</strong></p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse. </div>
+
+                  Account Title: Shuja-ul-Haq <br>
+                  Account Number: 0010029994180018 <br>
+                  Branch Code: 0907 <br>
+                  Bank: Allied Bank <br>
+
+
+              </div>
             </section>
           </div>
         </div>

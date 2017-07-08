@@ -92,7 +92,7 @@
 <!--                  <figure><img src="images/page1_img1.jpg" alt=""></figure>-->
                 </div>
                 Our portfolio includes: Arranging grand Iftars, Managing an orphanage, Supplying means of marriage to sisters &
-                  distributuion of ration to needy families alongside financial aid.
+                  distributuion of ration to needy families, alongside financial aid.
               </section>
               <section class="col1 pad_left1">
                 <h2 class="color2"><strong>E</strong>ducation</h2>
