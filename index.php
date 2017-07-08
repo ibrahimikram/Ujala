@@ -115,7 +115,7 @@
         </div>
       </div> <br>
       <div class="wrapper">
-        <h3>Founding Principles </h3>
+         <br> <h4 class="color3"><span>Founding</span> Principles</h4>
         <p class="quot"> Ujala E Pakistan was formed foreseeing the barriers, the lower class faces today. Poverty, illiteracy,
                          calamities and scarcity of basic life needs, makes everyday life a struggle for many. The NGO will aspire
                          to work solely for serving the humanity, without discrimination and only for the approval of
