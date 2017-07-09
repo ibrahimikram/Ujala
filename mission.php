@@ -47,9 +47,11 @@
     <!-- / header -->
     <!-- content -->
 
-     <br> <h4 align="center" class="color3"><span>About</span> Us</h4>
 
-    <article id="content">
+<!--     <br> <h4 align="center" class="color3"><span>About</span> Us</h4>-->
+
+
+      <br> <article id="content">
 
 
         <div class="wrapper">
