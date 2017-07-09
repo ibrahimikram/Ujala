@@ -63,7 +63,7 @@
                 </div>
                 " Growing up in a third world country isn't as easy as it is perceived. As an individual it's my responsibility
                   to serve my motherland and support my fellow countrymen. " <br> <br>
-                  <h2 align="right">Chaudhry Shuja</h2>
+                  <h2 align="right">Shuja Ul Haq</h2>
               </section>
               <section class="col1 pad_left1">
                 <h4 class="color2">Co-Founder</h4>

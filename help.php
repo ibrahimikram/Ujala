@@ -73,6 +73,8 @@
           <p class="pad_bot2"><strong> Ever since our inception in 2013, Ujala E Pakistan has helped thousands of individuals by
               catering to their specific needs</strong></p><br>
           <ul style="list-style-type:circle">
+              <li>Numerous patients have been helped in their treatment against life threatning diseases ranging from hepatitis,
+                  brain tumor, heart issues etc. </li>
              <li>Every Ramadan, we arrange Grand Iftars daily for around 400+ people at '22 Number Chungi' located in Rawalpindi.</li>
               <li>Since 2017, we have been working in collaboration with 'Bachon Ka Ghar' to provide a comfortable home to around 35 orphans
                 alongside arranging several recreational activities.</li>

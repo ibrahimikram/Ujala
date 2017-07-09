@@ -64,7 +64,7 @@
                             <div class="wrapper"><strong> without DISCRIMINATION”</strong></div>
                         </div>
                     </li>
-                    <li> <img src="images/3.jpg" alt="">
+                    <li> <img src="images/33.jpg" alt="">
                         <div class="banner">
                             <div class="wrapper"><span>“TOGETHER we can bring</span></div>
                             <div class="wrapper"><strong>IMPACTFUL CHANGES”</strong></div>
@@ -92,7 +92,7 @@
 <!--                  <figure><img src="images/page1_img1.jpg" alt=""></figure>-->
                 </div>
                 Our portfolio includes: Arranging grand Iftars, Managing an orphanage, Supplying means of marriage to sisters &
-                  distributuion of ration to needy families, alongside financial aid.
+                  distributuion of ration to needy families, alongside medical and financial aid.
               </section>
               <section class="col1 pad_left1">
                 <h2 class="color2"><strong>E</strong>ducation</h2>
