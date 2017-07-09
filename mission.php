@@ -79,7 +79,7 @@
               <section class="col1 pad_left1">
                 <h4 class="color3">Director</h4>
                 <div class="pad_bot1">
-                  <figure><img src="images/team3.jpg" alt=""></figure>
+                  <figure><img src="images/team3.jpg" width="264" height="323" alt=""></figure>
                 </div>
                   " I don't want to live in a kind of world where we don't show compassion for humanity. Now I can't change the
                   way anyone else thinks, or what they choose to do, but I can surely do my bit. "   <br>

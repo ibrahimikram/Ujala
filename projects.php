@@ -53,7 +53,8 @@
           <div class="wrapper">
             <section class="col1">
               <div class="line1">
-                <figure class="left marg_right1"><img src="images/page3_img2.jpg" alt=""></figure>
+                <figure class="left marg_right1"><img src="images/page3_img2.jpg" width="320" alt=""></figure>
+
                  <BR> <h4 align="center" class="color3"><span>Our</span> PORTFOLIO</h4> <br>
                 <p class="pad_bot1">Our portfolio includes: Arranging grand Iftars, Managing an orphanage, Supplying means of marriage to sisters & distributuion of ration to needy families, alongside medical and financial aid. </p>
                 <p class="pad_bot2"> The foundation of our entire system lies upon versatility. Due to an enthusiastic group of

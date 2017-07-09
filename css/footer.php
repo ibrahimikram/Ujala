@@ -12,7 +12,7 @@
                 <li class="end"><a href="contact.php">Contact</a></li>
             </ul>
         </nav>
-        <div class="tel"><span>+ 92</span> 332 5020616   <span>+ 92</span> 323 5402999 </div>
+        <div class="tel"><span>+ 92</span> 332 5020616</div>
     </div>
     <div id="footer_text">Copyright &copy; <a target="_blank" href="https://www.facebook.com/UjalaEPakistan">UjalaEPakistan </a> - All Rights Reserved<br>
 </footer>

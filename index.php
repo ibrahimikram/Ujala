@@ -52,7 +52,7 @@
             <div class="slider">
 
                 <ul class="items">
-                    <li> <img src="images/1.jpg" alt="">
+                    <li> <img src="images/1.jpg"  alt="">
                         <div class="banner">
                             <div class="wrapper"><span>“Our mission is to<em> HELP</em></span></div>
                             <div class="wrapper"><strong>anyone who<em> NEEDS</em> it”</strong></div>
@@ -64,7 +64,7 @@
                             <div class="wrapper"><strong> without DISCRIMINATION”</strong></div>
                         </div>
                     </li>
-                    <li> <img src="images/33.jpg" alt="">
+                    <li> <img src="images/3333.jpg" width="720" alt="">
                         <div class="banner">
                             <div class="wrapper"><span>“TOGETHER we can bring</span></div>
                             <div class="wrapper"><strong>IMPACTFUL CHANGES”</strong></div>
