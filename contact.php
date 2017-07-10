@@ -75,16 +75,14 @@
           <h4 class="color3"><span>Contact</span> Form</h4>
 <!--          <img src="images/page6_img1.jpg" alt="" height="300" class="img1">-->
 
-          <form id="ContactForm" action="mailto:ibrahimikram@hotmail.com"  method="POST"
-                enctype="multipart/form-data">
+          <form id="ContactForm" action="contact.php"  method="POST">
 
-            <div>
               <div class="wrapper"><span>Name:</span>
-                <input name="sender" type="text" class="input" required>
+                <input name="sender" type="text" class="input" required="">
               </div>
 
                 <div class="wrapper"><span>Contact: </span>
-                    <input type="number" class="input">
+                    <input name="contact#" type="number" class="input">
                 </div>
 
               <div class="wrapper"><span>E-mail:</span>
@@ -93,18 +91,37 @@
 
                 <div class="textarea_box"><span>Message:</span>
                 <textarea cols="1" rows="1" name="message"></textarea>
-              </div>
+                </div>
 
-              <a href="#" type="submit" post="submit" class="button2 color3">Send</a>
+              <button type='submit' name='submit' class="button2 color3" >Send</button>
 
           </form>
-
 
         </div>
       </div>
     </article>
     <!-- / content -->
+      <?php
 
+      if (isset($_GET['submit'])) {
+          $recipient="ibrahimikram@hotmail.com";
+          $subject="UJALA E PAKISTAN WEB CONTACT";
+          $sender=$_POST["sender"];
+          $senderEmail=$_POST["senderEmail"];
+          $contact=$_POST["contact#"];
+          $message=$_POST["message"];
+
+          $mailBody="Name: $sender\n
+               Email: $senderEmail\n
+               Contact #: $contact\n
+               \n$message";
+
+          mail($recipient, $subject, $mailBody, "From: $sender <$senderEmail>");
+
+          $thankYou="<p>Thank you! Your message has been sent.</p>";
+      }
+
+      ?>
       <!-- footer -->
       <?php
       include('footer.php');
@@ -115,3 +132,6 @@
 <script type="text/javascript">Cufon.now();</script>
 </body>
 </html>
+
+
+<!--            --

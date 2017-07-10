@@ -52,7 +52,6 @@
         <div class="box11">
           <div class="wrapper">
             <section class="col1">
-              <div class="line1">
                 <figure class="left marg_right1"><img src="images/page3_img2.jpg" width="320" alt=""></figure>
 
                  <BR> <h4 align="center" class="color3"><span>Our</span> PORTFOLIO</h4> <br>
@@ -60,7 +59,6 @@
                 <p class="pad_bot2"> The foundation of our entire system lies upon versatility. Due to an enthusiastic group of
                                     individuals, the organization never shy's from a challenge. Year after year we adapt and
                                     try to push our activities to the next level.</p>
-              </div>
             </section>
           </div>
         </div>

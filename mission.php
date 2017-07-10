@@ -59,16 +59,16 @@
           <div class="line1">
             <div class="line2 wrapper">
               <section class="col1">
-                <h4>Founder</h4>
+                <h4>President</h4>
                 <div class="pad_bot1">
                   <figure><img src="images/team1.jpg" alt=""></figure>
                 </div>
                 " Growing up in a third world country isn't as easy as it is perceived. As an individual it's my responsibility
-                  to serve my motherland and support my fellow countrymen. " <br> <br>
+                  to serve my motherland and support my fellow countrymen. " <br>
                   <h2 align="right">Shuja Ul Haq</h2>
               </section>
               <section class="col1 pad_left1">
-                <h4 class="color2">Co-Founder</h4>
+                    <h4 class="color2">CEO</h4>
                 <div class="pad_bot1">
                   <figure><img src="images/team2.jpg" alt=""></figure>
                 </div>
